@@ -7,5 +7,5 @@ sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ <
 
 sudo apt update 
 sudo apt install jenkins -y
-sudo systemct1 staus jenkins
+sudo systemctl staus jenkins
 curl localhost:8080
