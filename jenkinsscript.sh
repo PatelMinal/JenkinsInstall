@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 sudo apt upadte 
 sudo apt install openjdk-8-jdk -y
